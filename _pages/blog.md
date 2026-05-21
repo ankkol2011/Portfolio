@@ -20,7 +20,7 @@ pagination:
 
   <div class="writing-header">
     <h1 class="post-title">Writing</h1>
-    <p class="writing-subtitle">Decisions and tradeoffs that tutorials never cover. Published on <a href="https://dev.to/ayanarshad02" target="_blank" rel="noopener noreferrer">Dev.to</a>.</p>
+    <p class="writing-subtitle">Notes on AI systems, workflow optimization, and production automation.</p>
   </div>
 
   <ul class="writing-list">

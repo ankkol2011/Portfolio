@@ -6,7 +6,7 @@ subtitle:
 
 profile:
   align: right
-  image: ayan.png
+  image: ankit.png
   image_circular: false
   more_info:
 
@@ -22,24 +22,22 @@ latest_posts:
   limit: 3
 ---
 
-I build GenAI and Agentic AI systems for production. RAG pipelines, multi-tenant architectures, agentic workflows — the full stack from design to deployment.
+I build deterministic AI systems for teams that need automation to work outside the demo. My focus is workflow optimization, prediction systems, and AI pipelines that make real operational decisions more reliable.
 
-At Softeon I joined as one of the first people on the Data Science team. Talked directly with domain experts and AVPs, took requirements from the customer support team, designed the architecture, and shipped with a small team. No playbook, figured it out end to end.
+I work with solopreneurs and small to medium businesses that want production AI systems, not fragile prototypes. I care about the parts that usually break after staging: messy workflows, unclear decision points, testing bottlenecks, and systems that need to keep running when humans stop watching them.
 
-At Softeon I shipped two systems:
+At Aptiv I shipped:
 
-1. **Multi-tenant RAG chatbot** across 500+ enterprise clients. Tenant isolation at the vector DB layer, hybrid retrieval with cross-encoder reranking. Faithfulness pushed from 0.67 to 0.91. Unsupported claim rate below 4%.
+1. **QA automation engine** that used ML to prioritize test cases and detect failures earlier, saving 4 hours of manual QA effort every week.
 
-2. **AI-powered ticket resolution system** for the WMS support division. Took requirements directly from the support team, built semantic retrieval over historical tickets and documentation, rolled it out end to end.
+Outside work, I help businesses turn operations into measurable AI workflows: workflow optimization, GTM engines, forecasting, and prediction systems for better decision-making.
 
-Outside of work I built a kapa.ai (YC S23) inspired multi-tenant RAG platform. 12+ retrieval pipeline combinations tested before settling on the final stack. RAGAS scores: 0.91 faithfulness, 0.95 context recall, 0.89 context precision. MCP server integrated with Claude Desktop. Full observability with Prometheus and Grafana. Fully documented and containerised with Docker.
+I write and share practical AI engineering ideas on [LinkedIn](https://www.linkedin.com/in/ankit-shaw08/).
 
-I design systems keeping all the tradeoffs in mind and write about the decisions tutorials never cover, on [Dev.to](https://dev.to/ayanarshad02) and [LinkedIn](https://www.linkedin.com/in/md-ayan-arshad-740288248/).
-
-Looking for a fast-paced startup where I can own problems end to end, talk to users, and ship for them directly.
+I am looking for work involving workflow optimization, GTM systems, and prediction or forecasting models that support business decisions.
 
 ---
 
-**I do one free RAG and Agents architecture review per month. 48 hours. I'll find where your system breaks before your users do.**
+**I offer a free discovery call and one week of rough proof-of-concept work around the operation we discuss.**
 
-[DM me on LinkedIn →](https://www.linkedin.com/in/md-ayan-arshad-740288248/)
+[DM me on LinkedIn](https://www.linkedin.com/in/ankit-shaw08/)
