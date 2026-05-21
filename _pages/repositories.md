@@ -10,7 +10,7 @@ nav_order: 4
 
   <div class="writing-header">
     <h1 class="post-title">Repositories</h1>
-    <p class="writing-subtitle">Open source work on <a href="https://github.com/AyanArshad02" target="_blank" rel="noopener noreferrer">GitHub ↗</a></p>
+    <p class="writing-subtitle">Open source work on <a href="https://github.com/{{ site.data.socials.github_username }}" target="_blank" rel="noopener noreferrer">GitHub ↗</a></p>
   </div>
 
   <div class="repos-grid">
